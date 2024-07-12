@@ -1,0 +1,40 @@
+.search-bar {
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
+
+.categories-table {
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.table-spinner-column {
+    text-align: center;
+    padding: 1rem;
+}
+
+.category-table-message {
+    text-align: center;
+    padding: 1rem;
+}
+
+.delete-save-buttons {
+    padding: 10px;
+}
+
+.delete-save-buttons .d-flex {
+    gap: 10px;
+}
+
+.category-page-header {
+    display: flex;
+    padding: 1.5rem;
+}
+
+.category-page-header form:first-child {
+    width: 85%;
+}
+
+.category-page-header div:nth-child(2) {
+    width: 15%;
+}

@@ -1,0 +1,25 @@
+.product-sorting {
+    float: right;
+}
+
+.div-spinner-column{
+    text-align: center;
+    padding: 1rem;
+}
+
+.home-page-header {
+    display: flex;
+    padding: 1.5rem;
+}
+
+.home-page-header form:first-child {
+    width: 85%;
+}
+
+.home-page-header div:nth-child(2) {
+    width: 15%;
+}
+
+.save-button-wrapper button {
+    float: right;
+}
